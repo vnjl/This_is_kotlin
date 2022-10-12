@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.lsheayenugk1.basicsyntax">
+    package="com.ashram7.basicsyntax">
 
     <application
         android:allowBackup="true"

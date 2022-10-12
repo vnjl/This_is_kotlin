@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.lsheayenugk1.controlflow2"
+        applicationId "com.ashram7.controlflow2"
         minSdk 30
         targetSdk 32
         versionCode 1
